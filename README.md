@@ -7,38 +7,28 @@ AI-generated images for FluxA marketing.
 
 ## Images
 
-| File | Description | Style |
-|------|-------------|-------|
-| fluxa_test.png | AI Agent Robot | Sci-fi |
-| fluxa_lobster_jimeng.png | Single Lobster | Jimeng Style |
-| fluxa_jimeng_payment.png | 🦞×🎬 **NEW:** FluxA x Jimeng Payment | **Two Characters** |
-| fluxa_x_jimeng.png | Lobster with Clapperboard | Film Style |
-| fluxa_wallet_v2.png | Lobster Trading | Pix/Cartoon |
-| fluxa_payment.png | Payment System | Tech |
-| fluxa_bg.png | PPT Background | Clean |
+| File | Description |
+|------|-------------|
+| fluxa_test.png | AI Agent Robot |
+| fluxa_lobster_jimeng.png | Lobster Agent (Jimeng Style) |
+| fluxa_jimeng_payment.png | FluxA x Jimeng Payment Flow |
+| **fluxa_jimeng_v2.png** | 🆕 **CORRECTED:** FluxA x Jimeng with Official Logo |
+| fluxa_x_jimeng.png | Lobster with Clapperboard |
+| fluxa_wallet_v2.png | Lobster Trading |
+| fluxa_payment.png | Payment System |
+| fluxa_bg.png | PPT Background |
 
 ## Latest Update
 
-### fluxa_jimeng_payment.png (2026-02-11)
-**Theme**: FluxA (Lobster) × Jimeng (AI Platform) Payment Flow
+### fluxa_jimeng_v2.png (2026-02-11)
+**Theme**: FluxA x Jimeng with Correct Jimeng Logo
 
 **Content**:
-- LEFT: Cute orange-red lobster (FluxA/OpenClaw mascot) wearing payment device
-- RIGHT: Jimeng (即梦) AI platform logo/branding
-- CENTER: Programming code flowing FROM Jimeng TO FluxA
-- Payment tokens/coins being exchanged
+- LEFT: Cute orange-red lobster (FluxA mascot)
+- RIGHT: Jimeng AI official logo - purple circular background, hand holding orange animal head with blue puffy body
+- CENTER: Programming code flowing with digital coins
 
-**Key Message**:
-- FluxA = Payment Aggregator + Layer
-- Jimeng = AI Generation Service
-- Clear payment flow between two separate entities
-
-## About
-
-**FluxA**: AI Agent Wallet (OpenClaw ecosystem)
-- Autonomous payments between AI agents
-- Payment aggregation layer
-- Integration with services like Jimeng
+**Note**: Using official Jimeng logo design per reference image
 
 ---
 *Auto-pushed from OpenClaw*
