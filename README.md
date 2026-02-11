@@ -10,27 +10,35 @@ AI-generated images for FluxA marketing.
 | File | Description | Style |
 |------|-------------|-------|
 | fluxa_test.png | AI Agent Robot | Sci-fi |
-| fluxa_lobster_jimeng.png | 🦞 Lobster Agent | Jimeng Style |
-| **fluxa_x_jimeng.png** | 🎬 **NEW:** FluxA x Jimeng Collaboration | **Co-branding** |
+| fluxa_lobster_jimeng.png | Single Lobster | Jimeng Style |
+| fluxa_jimeng_payment.png | 🦞×🎬 **NEW:** FluxA x Jimeng Payment | **Two Characters** |
+| fluxa_x_jimeng.png | Lobster with Clapperboard | Film Style |
 | fluxa_wallet_v2.png | Lobster Trading | Pix/Cartoon |
 | fluxa_payment.png | Payment System | Tech |
 | fluxa_bg.png | PPT Background | Clean |
 
 ## Latest Update
 
-### fluxa_x_jimeng.png (2026-02-11)
-**Theme**: FluxA x Jimeng Collaboration
-- Cute lobster holding clapperboard
-- Jimeng film/art aesthetic
-- Dreamy cinematic lighting
-- Co-branding collaboration theme
+### fluxa_jimeng_payment.png (2026-02-11)
+**Theme**: FluxA (Lobster) × Jimeng (AI Platform) Payment Flow
 
-## About FluxA x Jimeng
+**Content**:
+- LEFT: Cute orange-red lobster (FluxA/OpenClaw mascot) wearing payment device
+- RIGHT: Jimeng (即梦) AI platform logo/branding
+- CENTER: Programming code flowing FROM Jimeng TO FluxA
+- Payment tokens/coins being exchanged
 
-FluxA AI Agent Wallet × Jimeng (即梦) AI Art Platform
-- Autonomous AI agent payments
-- Creative AI generation
-- Partnership visualization
+**Key Message**:
+- FluxA = Payment Aggregator + Layer
+- Jimeng = AI Generation Service
+- Clear payment flow between two separate entities
+
+## About
+
+**FluxA**: AI Agent Wallet (OpenClaw ecosystem)
+- Autonomous payments between AI agents
+- Payment aggregation layer
+- Integration with services like Jimeng
 
 ---
 *Auto-pushed from OpenClaw*
