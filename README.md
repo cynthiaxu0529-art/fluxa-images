@@ -7,28 +7,18 @@ AI-generated images for FluxA marketing.
 
 ## Images
 
-| File | Description | Date |
-|------|-------------|------|
-| fluxa_test.png | AI Agent Robot | 2026-02-11 |
-| fluxa_lobster_jimeng.png | 🦞 **NEW:** Lobster Agent (Jimeng Style) | 2026-02-11 |
-| fluxa_wallet_v2.png | Lobster Agent Trading | 2026-02-11 |
-| fluxa_payment.png | Payment System | 2026-02-11 |
-| fluxa_bg.png | PPT Background | 2026-02-11 |
+| File | Description | Style |
+|------|-------------|-------|
+| fluxa_test.png | AI Agent Robot | Sci-fi |
+| fluxa_lobster_jimeng.png | 🦞 Lobster Agent | **Jimeng Style** |
+| fluxa_wallet_v2.png | Lobster Trading | Pix/Cartoon |
+| fluxa_payment.png | Payment System | Tech |
+| fluxa_bg.png | PPT Background | Clean |
 
-## Latest Updates
+## About
 
-### fluxa_lobster_jimeng.png (2026-02-11)
-**Style**: Jimeng (即梦) AI art aesthetic + OpenClaw Lobster mascot
-- Dreamy, ethereal lighting
-- Orange-red gradient shell
-- Large expressive digital eyes
-- AI payment device accessories
-
-### fluxa_wallet_v2.png (2026-02-11)
-**Style**: Pixar cartoon (Judy Hopps inspired)
-- Two cute lobster agents trading
-- Programming code data stream
-- Digital tokens & blockchain
+FluxA is an AI Agent Wallet for autonomous payments between AI agents.
+These images are used for marketing and product visualization.
 
 ---
 *Auto-pushed from OpenClaw*
